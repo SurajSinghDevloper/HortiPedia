@@ -20,7 +20,7 @@ Brief update of our project
 10. nprogress (nanoscopic progress bar)
 
 # Installation:
-1.  git clone https://github.com/E-ggle/HortiPedia
+1.  git clone https://github.com/SurajSinghDevloper/HortiPedia.git
 2.  cd HortiPedia
 3.  cd client -> npm install or yarn add -> npm run dev -- -p 3006 <br/>
     // open a new terminal to install server
